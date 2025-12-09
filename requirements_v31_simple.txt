@@ -1,0 +1,16 @@
+# Bildungsplanungs-App V3.1 STABLE
+# Vereinfachte Requirements (ohne strikte Versionen)
+# Installiert automatisch die neuesten kompatiblen Versionen
+
+streamlit
+pandas
+plotly
+numpy
+openpyxl
+
+# Optional (für Karten):
+folium
+streamlit-folium
+
+# Optional (für Excel-Export):
+xlsxwriter
